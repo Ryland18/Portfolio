@@ -90,6 +90,10 @@ table{
     display: inline-block;
 }
 
+
+
+
+
 }
 
  @media (max-width: 650px){
@@ -187,4 +191,10 @@ table{
         display: inline-block;
     }
     
-    }
+    
+
+ }
+
+ footer p{
+    font-size: 13px;
+ }
